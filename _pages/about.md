@@ -16,10 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I've recently completed my PhD in the [CILVR](https://wp.nyu.edu/cilvr/) group at NYU, advised by [Joan Bruna](https://cims.nyu.edu/~bruna/).
+I am a Postdoctoral Research Associate, jointly appointed in the [Knowles lab](https://daklab.github.io/) at the New York Genome Center and the [Azizi lab](https://www.azizilab.com/).  I'm currently working on applying methods from geometric deep learning to the analysis of spatial transcriptomic data and inference of gene regulatory networks.
 
-My thesis primarily concerned the theoretical properties of symmetric and anti-symmetric neural networks.  During my PhD I studyied quantatitive approximation bounds based on pairwise attention in symmetric architectures, proved which symmetric functions are provably learnable with gradient methods, and analyzed the capacity to approximate symmetric functions defined over infinitely large sets.
+Recently, I completed my PhD in the [CILVR](https://wp.nyu.edu/cilvr/) group at NYU, advised by [Joan Bruna](https://cims.nyu.edu/~bruna/).
+
+My thesis primarily concerned the theoretical properties of symmetric and anti-symmetric neural networks.  During my PhD I studied quantitative approximation bounds based on pairwise attention in symmetric architectures, characterized symmetric functions that are provably learnable with gradient methods, and analyzed the capacity to approximate symmetric functions defined over infinitely large sets.
 
 Previously, I've worked on graph neural network autoencoders, reinforcement learning theory, and differentiable approximations to discrete operators.
-
-My full CV is available [here](https://drive.google.com/file/d/1mrPcNhWvpX5AMt7wqULC-W6XQwfrH3Ne/view?usp=sharing), feel free to reach me at [az831@nyu.edu](mailto:az831@nyu.edu)
+My full CV is available [here](https://drive.google.com/file/d/1KfNUo2Wq6caCwy91OStISc2l3fl0l2c0/view?usp=sharing), feel free to reach me at [az831@nyu.edu](mailto:az831@nyu.edu)
